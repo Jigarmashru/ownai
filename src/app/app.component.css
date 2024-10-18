@@ -1,0 +1,33 @@
+.shadow{
+    height: 100vh !important;
+    width: 100vw !important;
+}
+
+.first{
+    height: 35vh;
+}
+
+.second{
+    background-color: rgb(139 195 74 / 30%) !important;
+    height: 15vh;
+}
+
+.third{
+    background-color: rgb(139 195 74 / 30%) !important;
+    height: 40vh;
+    overflow: auto;
+}
+
+.fourth{
+    background-color: rgb(139 195 74 / 30%) !important;
+    height: 10vh;
+}
+
+.btn_style{
+    border: 2px solid black;
+}
+
+.btn_style_rs{
+    border: 2px solid black;
+    border-radius: 50%;
+}
